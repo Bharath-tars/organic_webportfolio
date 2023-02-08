@@ -1,0 +1,135 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    color: #40515E;
+
+}
+.header{
+    padding-top: 20px;
+    font-size: 25px;
+    position: relative;
+    background-color: #ccfddf;
+
+}
+#up_cloud{
+    position: relative;
+    left: 370px;
+    margin-top: 40px;
+    width: 200px;
+    
+}
+#bot_cloud{
+    position: relative;
+    bottom: 300px;
+    right: 70px;
+    width: 200px;
+
+}
+#mountain{
+    position: relative;
+    right: 90px;
+}
+.sub{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 23px;
+    position: relative;
+    bottom: 50px;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 90px;
+    color: #66BFBF;
+    line-height: 2;
+}
+.image_me{
+    width: 200px;
+}
+h3{
+    color:  #11999E;
+}
+a{
+    color:  #11999E;
+    text-decoration: none;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+.skill-row{
+    width: 50%;
+    margin:auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: left;
+    line-height: 2;
+}
+.ai_img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.coff_img{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+
+}
+p{
+    font-family: 'Merriweather', serif;
+    line-height: 2;
+}
+hr{
+    border: none;
+    border-top: dotted #9ab2b2 6px;
+    width: 4%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+table{
+    background-color: #329f9f;
+    color: #ffffff;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 70px;
+    margin-top: 40px;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+table:hover{
+    background-color: #66BFBF;
+
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 17px;
+    line-height: 2;
+    word-spacing: 35px;
+    color: #216969;
+     font-family: 'Montserrat', sans-serif;
+     text-decoration: none;
+
+}
+.last{
+    color:#ffffff;
+    font-size: 12px;
+    word-spacing: 0px;
+}
+.intro{
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    margin-bottom: 70px;
+
+}
+a:hover{
+    color: #ffffff;
+}
